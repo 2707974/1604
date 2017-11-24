@@ -100,4 +100,4 @@ Now, you can access your remote server via SSH using port 443:
     Last login: Mon Aug 14 15:52:20 2017 from 192.168.43.192
     sk@ubuntuserver:~$
 
-See? I can now be able to access the remote server via SSH even if the default SSH port 22 is blocked. As you see in the above example, I have used the https port 443 for SSH connection. Also, we can use the same port 443 for openVPN connections too. For more details, check the project’s website URL given below.
+I can now be able to access the remote server via SSH even if the default SSH port 22 is blocked. As you see in the above example, I have used the https port 443 for SSH connection. Also, we can use the same port 443 for openVPN connections too. For more details, check the project’s website URL given below.
