@@ -18,8 +18,8 @@ and restart the NetworkManager service.
 
 	sudo service network-manager restart
 
-In this mode, `NetworkManager` updates `/etc/resolv.conf` (still via resolvconf) to include the nameserver 
-addresses `NetworkManager` has for active connections.
+In this mode, `NetworkManager` updates `/etc/resolv.conf` to include the nameserver  addresses `NetworkManager` 
+has for active connections.
 
 If you want to disable the `resolvconf` mechanism for updating `resolv.conf` and just use a static 
 `resolv.conf` file, do the following.
