@@ -74,4 +74,4 @@ Once the installation is complete, run `netstat` to see whether it is available 
     netstat
     
 
-    That’s All. You now have netstat command available on your CentOS 7 machine.
+That’s All. You now have netstat command available on your CentOS 7 machine.
